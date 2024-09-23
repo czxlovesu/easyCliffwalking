@@ -1,5 +1,3 @@
-当然可以，以下是根据您提供的文件内容创建的 `README.md` 文件的中文版本。
-
 ### README.md
 
 ```markdown
